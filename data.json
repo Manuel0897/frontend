@@ -1,82 +1,107 @@
 {
   "data": {
-    "name": "Melissa Walsh",
+    "name": "Juan Manuel Mendoza Maldonado",
     "profession": "FrontEnd Developer",
-    "address": "Bogotá, Colombia.",
-    "email": "melissa@example.com",
-    "website": "https://example.com",
-    "phone": "3042034240",
-    "avatar": "https://arepa.s3.amazonaws.com/melissa.jpg",
-    "Profile": "Ignore the squirrels, you'll never catch them anyway hack, for floof tum, tickle bum, jellybean footies curly toes climb leg roll over and sun my belly, ",
+    "address": "Monterrey, México.",
+    "email": "manuel_mm97@hotmail.com",
+    "website": "https://www.manuelmendozam.com/",
+    "phone": "+52 81 2443 5387",
+    "avatar": "https://www.manuelmendozam.com/static/media/photo.56b1bd6e.png",
+    "Profile": "Systems administrator Engineer with experience in group management and software development. Web Applications Programmer. Experience in development of Neural Networks. Enthusiast of learning everything that allows me to help in the construction of the future.",
     "certificate": [
       {
-        "date": "Jan 2021",
-        "description": "Hack up furballs try to jump onto window and fall while scratching at wall. ",
-        "institution": "Platzi",
-        "name": "FrontEnd Developer"
+          "date": "December 2019",
+          "description": "Data Science bootcamp using Python-based curriculum, real-world case studies, and machine learning concepts.",
+          "institution": "Galvanize",
+          "name": "Data Science Immersive"
       },
       {
-        "date": "Jan 2021",
-        "description": "Scratch at the door then walk away wack the mini furry mouse",
-        "institution": "Platzi",
-        "name": "Backend Developer"
+          "date": "November 2019",
+          "description": "Equivalent to level B2 of English proficiency.",
+          "institution": "ETS",
+          "name": "TOEFL iBT.  75 points."
+      },
+      {
+          "date": "September 2018",
+          "description": "Training course in basic skills and concepts to create applications for mobile devices. It presents the essential principles that should inspire the creation of applications, and thus focus its design and programming well from the beginning.",
+          "institution": "Google Activate – Universidad Complutense de Madrid",
+          "name": "Mobile Apps Development Course"
+      },
+      {
+          "date": "June 2017",
+          "description": "Learn the networking basics like switches, routers, and wireless products to help your business share applications, speed information access, and make the customer improve.",
+          "institution": "Cisco",
+          "name": "CCNA: Basic routing and switching principles"
       }
     ],
     "Academic": [
       {
-        "degree": "Atomic Master",
-        "description": " I’m so hungry i’m so hungry but ew not for that pelt around the house and up and down stairs chasing phantoms",
-        "endDate": "Jan 2017",
-        "institution": "MIT",
-        "startDate": "Jan 2018"
-      },
-      {
-        "degree": "Space Engineering",
-        "description": "Meow in empty rooms. Find empty spot in cupboard and sleep all day check cat door for ambush 10 times before coming in for hack. ",
-        "endDate": "Decenber 2015",
-        "institution": "Harvard",
-        "startDate": "Jan 2017"
+        "degree": "Bachelor’s degree of Systems administrator Engineer",
+        "description": "Average: 91.6. Dissertation Thesis on Security System Based on S.T.R.I.D.E Using Artificial Intelligence. Recognition for being part of the 'Group of 100' for obtaining one of the best 100 averages during the semester from August to December 2017 at the Engineering Faculty.",
+        "endDate": "June 2019",
+        "institution": "Universidad Autónoma de Nuevo León",
+        "startDate": "August 2014"
       }
     ],
     "experience": [
       {
-        "company": "PugStar",
-        "endDate": "Present",
-        "jobDescription": "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard.",
-        "jobTitle": "Frontend",
-        "startDate": "Jan 2020"
+        "company": "Neoris",
+        "endDate": "Presente",
+        "jobDescription": "Desarrollo de Aplicaciones Web con tecnologías JavaScript. Desarrollador Frontend con React JS. Administración de Backend en Node.js. Control de Versiones.",
+        "jobTitle": "Software Development Analyst",
+        "startDate": "Octubre 2018"
       },
       {
-        "company": "CatStore",
-        "endDate": "Jan 2016",
-        "jobDescription": "Meow in empty rooms lick left leg for ninety minutes, still dirty.",
-        "jobTitle": "Backend",
-        "startDate": "Sept 2019"
+        "company": "Universidad Autónoma de Nuevo León – Student Group",
+        "endDate": "Diciembre 2018",
+        "jobDescription": "El Grupo Estudiantil de la Facultad tiene el propósito de ser la representación de los estudiantes. Desarrollo, planificación y coordinación de actividades con el fin de complementar y estimular el aprendizaje de los alumnos. Mis actividades incluían: Planificación de Actividades. Coordinación de Grupos de Trabajo. Asignación de Tareas. Principal representante de los estudiantes. Durante mi periodo como presidente se duplico la cantidad de estudiantes en el grupo de trabajo, lo que permitió incrementar las actividades desarrolladas por el grupo estudiantil tanto dentro como fuera de la facultad.",
+        "jobTitle": "Presidente Estudiantil del Programa Ingeniero Administrador de Sistemas",
+        "startDate": "Junio 2017"
+      },
+      {
+        "company": "TCA Software Solutions ",
+        "endDate": "Junio 2018",
+        "jobDescription": "Análisis de calidad de productos. Elaboración de criterios de aceptación. Creación de Casos de Prueba. Análisis de requerimientos funcionales y no funcionales. Ejecución de pruebas. Administración de la división de proyectos de interfaces web. Asignación de tareas entre mi equipo (4 personas) y yo. Con el apoyo de mi equipo, la productividad y la velocidad en las pruebas de software mejoraron a 300% en 6 meses y se obtuvo el porcentaje más bajo de errores una vez entregado el producto en comparación con las otras cedulas de la compañía.",
+        "jobTitle": "Analista de Calidad",
+        "startDate": "Mayo 2017"
       }
     ],
     "skills": [
       {
         "name": "HTML5",
-        "percentage": "75%"
+        "percentage": "80%"
       },
       {
         "name": "CSS",
-        "percentage": "25%"
+        "percentage": "90%"
       },
       {
         "name": "JavaScript",
-        "percentage": "55%"
+        "percentage": "70%"
       },
       {
         "name": "React",
-        "percentage": "90%"
+        "percentage": "70%"
+      },
+      {
+        "name": "Analysis",
+        "percentage": "75%"
+      },
+      {
+        "name": "Communication",
+        "percentage": "65%"
+      },
+      {
+        "name": "Leadership",
+        "percentage": "85%"
       }
     ],
     "interest": [
       "javascript",
       "develop",
-      "backend",
-      "frontend"
+      "design",
+      "frontend",
+      "productivity"
     ],
     "languages": [
       {
@@ -85,7 +110,11 @@
       },
       {
         "name": "English",
-        "percentage": "50%"
+        "percentage": "70%"
+      },
+      {
+        "name": "Portuguese",
+        "percentage": "15%"
       }
     ],
     "social": [
