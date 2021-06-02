@@ -1,9 +1,18 @@
 import React from 'react';
 import { mount } from 'enzyme';
 import About from '../../components/About';
+import data from '../../../data.json';
 
 describe('<About />', () => {
-  const about = mount(<About />);
+  const about = mount(<About
+    avatar={data.data.avatar}
+    title={data.data.name}
+    jobTitle={data.data.profession}
+    phone={data.data.phone}
+    email={data.data.email}
+    website={data.data.website}
+    address={data.data.address}
+  />);
 
   test('About render', () => {
     expect(about.length).toEqual(1);
